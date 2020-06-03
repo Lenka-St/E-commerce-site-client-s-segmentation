@@ -6,6 +6,7 @@ Using non-supervised Machine Learning algorithms to provide a segmentation of Ol
 
 - Feature engineering
 > Exploring the databasis
+
 > Creating new features
 
 - Describing the features
@@ -15,6 +16,7 @@ Using non-supervised Machine Learning algorithms to provide a segmentation of Ol
 - Dimension reduction
 - Clustering
 > Hierarchical Clustering
+
 > K-means
 
 
